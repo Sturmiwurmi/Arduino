@@ -1,0 +1,2 @@
+-wiederstand pulldown 10kohm
+-diode kann wichtig sein, damit kein strom zurück in den sender fließt -> andere art von kurzschluss

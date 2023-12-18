@@ -1,0 +1,3 @@
+Um Daten zu Empfangen muss der TX pin mit den RX Pins von den Empfängern verbunden sein
+(Mann kann auch mehrere Arduinos empfangen lassen wenn man den einen TX pin mit den Empfängern verbindet)
+Serial.print vermeiden 
