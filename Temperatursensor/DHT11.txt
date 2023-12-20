@@ -1,0 +1,3 @@
+linke Pin = Data 
+mitte = 5v
+rechter Pin = GND 
